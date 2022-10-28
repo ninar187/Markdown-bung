@@ -1,0 +1,14 @@
+﻿from;to;weight
+A;B;3
+B;A;3
+C;A;2
+D;A;2
+A;C;2
+B;C;2
+C;B;2
+A;D;2
+B;D;2
+C;D;2
+D;C;1
+A;B;3
+B;A;3
