@@ -1,0 +1,27 @@
+﻿id;name;type;sector
+hpr;Heinrich Prinz Reuß;1;Adel
+mf;Michael Fritsch;1;Polizei
+me;Maximilian Eder;1;Militär
+fh;Frank Heppner;1;Koch
+cw;Christian Wendler;1;Wirtschaft
+rhl;Ruth Hildegard L.;1;Spiritualität
+rvp;Rüdiger von Pescatore;1;Militär
+mr;Melanie R.;1;Arzt
+pg;Paul G.;1;Justiz
+pw;Peter Wörner;1;Militär
+rr;René R. ;1;Wirtschaft
+mvh;Marco van H.;1;Militär
+bmw;Birgit Malsack-Winkemann;1;Justiz
+afd;AfD;2;Politik 
+ksk;Kommando Spezialkräfte;2;Militär
+quer;Querdenker;2;Politik 
+ahrtal;Einsatz im Ahrtal;2;Militär
+bw;Bundeswehr;2;Militär
+ad;Adel;NA;NA
+pz;Polizei;NA;NA
+koch;Koch;NA;NA
+ws;Wirtschaft;NA;NA
+sp;Spiritualität;NA ;NA
+mt;Militär;NA;NA
+atz;Arzt;NA ;NA
+jt;Justiz;NA;NA 
